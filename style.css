@@ -1,15 +1,16 @@
 *{
     padding: 0;
     margin: 0;
-  }
+}
 #xxx{
     background-color: #FFFFFF; 
+    /* display: block; */
 }
 
 #action {
     position: fixed;
-    top: 0;
-    right: 0;
+    top: 20px;
+    right: 20px;
     user-select: none;
 }
 .action > #brush{
